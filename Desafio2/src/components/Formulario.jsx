@@ -77,7 +77,7 @@ function Formulario({setAlert}) {
 					value={repassword}
 					placeholder="Confirma tu contraseña"
 				/>
-      <Button type="submit" variant="success">Registrarse</Button>
+      <Button type="submit" variant="primary">Registrarse</Button>
     </Form>
 		</>
   )
