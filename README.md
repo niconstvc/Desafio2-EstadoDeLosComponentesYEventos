@@ -31,3 +31,10 @@ npm install @fortawesome/react-fontawesome
 5.Instacion React Icons
 También puede utilizar React Icons, instalándolos con el siguiente comando:
 npm install react-icons
+____________________________________________________________________________
+Commits
+
+1 https://github.com/niconstvc/desafio2-react
+![Captura de pantalla 2024-03-09 a la(s) 21 23 53](https://github.com/niconstvc/Desafio2-EstadoDeLosComponentesYEventos/assets/120123429/dc330013-6fcf-474c-910f-dc16677b706a)
+
+2 
