@@ -4,6 +4,7 @@
 En la terminal, ejecute el siguiente comando para crear una nueva carpeta:
 npm create vite Desafio2-EstadoDeLosComponentesYEventos
 Luego, seleccione las siguientes opciones:
+npm create vite
 - Nombre del proyecto: Desafio2-EstadoDeLosComponentesYEventos
 - Opciones: React y JavaScript
 
